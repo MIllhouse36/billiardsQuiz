@@ -24,6 +24,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 
 ## Author 
+If you have and questions contact me @
 [Kevin Millhouse](https://github.com/MIllhouse36)
+or [Email](https://millhousekevin@gmail.com)
 ## Host
 https://millhouse36.github.io/billiardsQuiz/
