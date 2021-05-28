@@ -8,8 +8,6 @@ Do you love billiards or as some like to call it, pool? Do you wanna sharpen you
 ## Usage 
 You can access the [billiards quiz](https://millhouse36.github.io/billiardsQuiz/) and just hit GO! and get ready!
 
-## Project status
-Development of this projects has been halted with plans to covert this project into a full stack react application with a vast database of question to aid in randomizing the quiz. 
 
 ## Contributing to Billiards Quiz 
 To contribute to Billiards Quiz , follow these steps:
@@ -22,6 +20,8 @@ To contribute to Billiards Quiz , follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Project status
+Development of this projects has been halted with plans to covert this project into a full stack react application with a vast database of question to aid in randomizing the quiz. 
 
 ## Author 
 If you have and questions contact me @
